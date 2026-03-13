@@ -110,12 +110,11 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=VidulaWickramasinghe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
+    src="https://trophy.ryglcloud.net/?username=vidulawickramasinghe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
     alt="GitHub trophies"
   />
 </p>
 
----
 
 ## ✨ Personal Motto
 
