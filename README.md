@@ -43,7 +43,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ## 📫 Contact Me
 
-- 📧 Email: contact@vidulawickramasinghe.com
+- 📧 Email: **contact@vidulawickramasinghe.com**
 - 💼 LinkedIn: **https://linkedin.com/in/vidulawickramasinghe**
 - 🌍 Portfolio: **https://vidulawickramasinghe.com**
 
