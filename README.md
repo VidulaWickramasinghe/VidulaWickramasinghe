@@ -7,7 +7,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 <h3 align="center">System Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vidulawickramasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -124,19 +124,12 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg" />
   </picture>
-</div>
+</p>
+
+[![Generate Snake](https://github.com/VidulaWickramasinghe/VidulaWickramasinghe/actions/workflows/snake.yml/badge.svg)](https://github.com/VidulaWickramasinghe/VidulaWickramasinghe/actions/workflows/snake.yml)
