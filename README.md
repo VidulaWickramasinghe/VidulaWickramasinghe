@@ -109,7 +109,10 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidulawickramasinghe&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VidulaWickramasinghe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
+    alt="GitHub trophies"
+  />
 </p>
 
 ---
@@ -122,5 +125,19 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ## 🐍 Contribution Snake
 
-```markdown
-![snake gif](https://github.com/vidulawickramasinghe/vidulawickramasinghe/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg"
+    />
+  </picture>
+</div>
