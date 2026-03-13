@@ -43,8 +43,8 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ## 📫 Contact Me
 
-- 📧 Email: **contact@vidulawickramasinghe.com**
-- 💼 LinkedIn: **https://linkedin.com/in/vidulawickramasinghe**
+- 📧 Email: **vidula.hwick@outlook.com**
+- 💼 LinkedIn: **[https://linkedin.com/in/vidulawickramasinghe](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
 - 🌍 Portfolio: **https://vidulawickramasinghe.com**
 
 ---
@@ -52,10 +52,10 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vidulawickramasinghe" target="_blank">
+  <a href="[https://linkedin.com/in/vidulawickramasinghe](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/vidulawickramasinghe" target="_blank">
+  <a href="[https://github.com/vidulawickramasinghe](https://github.com/VidulaWickramasinghe)" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
