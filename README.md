@@ -97,64 +97,10 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ---
 
-## 💻 Tech Stack
 
-### Languages, Web Development & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" height="48" alt="Core Web Stack" />
-  <img src="https://cdn.simpleicons.org/shadcnui?color=000000" height="48" alt="shadcn/ui" />
-</p>
 
-### Artificial Intelligence & Generative Models
-<p align="left">
-  <!-- OpenAI -->
-<img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" />
-<!-- DeepSeek -->
-<img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="48" alt="DeepSeek" />
-<!-- Character.ai -->
-<img src="https://cdn.simpleicons.org/characterdotai/000000" height="48" alt="Character.ai" />
-<!-- ElevenLabs -->
-<img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" />
-<!-- Runway -->
-<img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" />
-<!-- Stability AI -->
-<img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" />
-<!-- Synthesia (favicon fallback) -->
-<img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" style="border-radius:10px;" />
-</p>
-
-### Data Analytics, Backend & Cloud Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" height="48" alt="Data & Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
-  <img src="https://cdn.simpleicons.org/apache?color=D22128" height="48" alt="Apache" />
-  <a href="https://base.org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" style="border-radius:10px;" />
-  </a>
-</p>
-
-### Information Systems, Tools & Environments
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" height="48" alt="Tools & IDEs" />
-  <img src="https://cdn.simpleicons.org/xcode?color=157EFB" height="48" alt="Xcode" />
-  <img src="https://cdn.simpleicons.org/apache?color=D22128" height="48" alt="NetBeans" />
-  <img src="https://cdn.simpleicons.org/hyperskill?color=000000" height="48" alt="Hyperskill" />
-<img src="[https://cdn.simpleicons.org](https://www.w3.org)/w3c/005A9C" height="48" alt="W3C" />
-  <img src="https://cdn.simpleicons.org/wikipedia?color=000000" height="48" alt="Wikipedia" />
-</p>
-
-### Enterprise Tech, GIS & Automation
-<p align="left">
-  <img src="[https://cdn.simpleicons.org](https://account.microsoft.com/profile)/microsoft?color=00A4EF" height="48" alt="Microsoft" />
-  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" />
-  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" />
-  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" />
-  <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" alt="Esri" />
-  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  <img src="[https://cdn.simpleicons.org](https://www.ibm.com/au-en)/ibm/052FAD" height="48" alt="IBM" /></p>
-
-## 🧠 Areas of Interest
+  
+  ## 🧠 Areas of Interest
 
 - Artificial Intelligence  
 - Data Science & Analytics  
