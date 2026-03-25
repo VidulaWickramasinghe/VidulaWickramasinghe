@@ -73,27 +73,26 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vidula-wickramasinghe-931259321/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
   <a href="https://github.com/VidulaWickramasinghe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>
-  
   <a href="YOUR_MASTODON_LINK_HERE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon" title="Mastodon" />
+    <img src="https://skillicons.dev/icons?i=mastodon" height="48" alt="Mastodon" />
   </a>
   <a href="YOUR_BLUESKY_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="48" alt="Bluesky" title="Bluesky" />
+    <img src="https://cdn.simpleicons.org/bluesky?color=0285FF" height="48" alt="Bluesky" />
   </a>
   <a href="YOUR_HUGGINGFACE_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" title="Hugging Face" />
+    <img src="https://cdn.simpleicons.org/huggingface?color=FFD21E" height="48" alt="Hugging Face" />
   </a>
   <a href="YOUR_ORCID_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="48" alt="ORCID" title="ORCID" />
+    <img src="https://cdn.simpleicons.org/orcid?color=A6CE39" height="48" alt="ORCID" />
   </a>
   <a href="YOUR_MEDIUM_LINK_HERE" target="_blank">
-  <img src="https://cdn.simpleicons.org/medium/000000" height="48" alt="Medium" title="Medium" />
-   </a>
+    <img src="https://cdn.simpleicons.org/medium?color=000000" height="48" alt="Medium" />
+  </a>
 </p>
 
 ---
@@ -102,59 +101,52 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Languages, Web Development & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" alt="Core Web Stack" />
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" height="48" alt="Core Web Stack" />
+  <img src="https://cdn.simpleicons.org/shadcnui?color=000000" height="48" alt="shadcn/ui" />
 </p>
 
 ### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" title="OpenAI" />
-  
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="48" alt="DeepSeek" title="DeepSeek" />
-  
-  <img src="https://cdn.simpleicons.org/characterdotai/000000" height="48" alt="Character.ai" title="Character.ai" />
-  
-  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
-  
-  <img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" title="Runway" />
-  
-  <img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" title="Stability AI" />
-  
-  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" title="Synthesia" style="border-radius: 10px;" />
+  <img src="https://cdn.simpleicons.org/openai?color=000000" height="48" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" alt="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" alt="Character.ai" />
+  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/runway?color=000000" height="48" alt="Runway" />
+  <img src="https://cdn.simpleicons.org/stabilityai?color=1A1919" height="48" alt="Stability AI" />
+  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" style="border-radius:10px;" />
 </p>
 
 ### Data Analytics, Backend & Cloud Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" alt="Data & Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache" title="Apache" />
-<a href="https://base.org" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" title="Base" style="border-radius: 10px;" />
-</a>
+  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" height="48" alt="Data & Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
+  <img src="https://cdn.simpleicons.org/apache?color=D22128" height="48" alt="Apache" />
+  <a href="https://base.org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" style="border-radius:10px;" />
+  </a>
 </p>
 
 ### Information Systems, Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" alt="Tools & IDEs" />
-  <img src="https://cdn.simpleicons.org/xcode/157EFB" height="48" alt="Xcode" title="Xcode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="NetBeans" title="NetBeans" />
-  <img src="https://cdn.simpleicons.org/hyperskill/000000" height="48" alt="Hyperskill" title="Hyperskill" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
-  <img src="https://cdn.simpleicons.org/wikipedia/000000" height="48" alt="Wikipedia" title="Wikipedia" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" height="48" alt="Tools & IDEs" />
+  <img src="https://cdn.simpleicons.org/xcode?color=157EFB" height="48" alt="Xcode" />
+  <img src="https://cdn.simpleicons.org/apache?color=D22128" height="48" alt="NetBeans" />
+  <img src="https://cdn.simpleicons.org/hyperskill?color=000000" height="48" alt="Hyperskill" />
+  <img src="https://cdn.simpleicons.org/w3c?color=005A9C" height="48" alt="W3C" />
+  <img src="https://cdn.simpleicons.org/wikipedia?color=000000" height="48" alt="Wikipedia" />
 </p>
 
 ### Enterprise Tech, GIS & Automation
 <p align="left">
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" alt="Nvidia" title="Nvidia" />
-  <img src="https://cdn.simpleicons.org/meta/0468FF" height="48" alt="Meta" title="Meta" />
-  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" height="48" alt="Microsoft" title="Microsoft" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="48" alt="IBM" title="IBM" />
-  <img src="https://cdn.simpleicons.org/hp/0096D6" height="48" alt="HP" title="HP" />
-  <img src="https://cdn.simpleicons.org/esri/007AC2" height="48" alt="Esri" title="Esri" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn" />
+  <img src="[https://cdn.simpleicons.org](https://account.microsoft.com/profile)/microsoft?color=00A4EF" height="48" alt="Microsoft" />
+  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" />
+  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" />
+  <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" alt="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/ibm?color=052FAD" height="48" alt="IBM" />
 </p>
-
 
 ## 🧠 Areas of Interest
 
