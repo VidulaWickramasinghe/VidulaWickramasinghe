@@ -44,19 +44,18 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ## 🌱 Currently Working On
 
-- Personal portfolio and project showcase  
-- AI/Data Science learning pathway  
-- Web-based startup concepts and system design projects  
-- IoT and smart device solutions  
-- Business and technology integration ideas
+* **Expanding my AI & Data Science expertise:** Focusing on predictive modeling, machine learning algorithms, and advanced data visualization techniques.
+* **Building Full-Stack Innovations:** Designing scalable, web-based startup concepts and comprehensive system architectures.
+* **Developing Smart IoT Solutions:** Prototyping embedded systems and connected devices for real-world environmental and business applications.
+* **Refining my Digital Presence:** Continuously upgrading my personal portfolio to showcase complex data integrations and system designs.
 
 ---
 
 ## 💼 Looking For
 
-- Internship opportunities  
-- Collaboration on software and AI projects  
-- Networking with developers, founders, and tech professionals  
+* **Internship & Junior Roles:** Actively seeking opportunities in Software Engineering, Data Analytics, or Systems Development where I can contribute to high-impact projects.
+* **Open Source & Project Collaboration:** Eager to partner with developers on innovative AI, IoT, or full-stack web applications.
+* **Professional Networking:** Always open to connecting with founders, tech professionals, and fellow engineers to discuss industry trends, system architecture, and tech startups.
 
 ---
 
