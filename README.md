@@ -33,7 +33,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 > *A live flight data streaming system that tracks aircraft positions globally, providing real-time updates for aviation monitoring and analytics.*
 * **Tech Stack:** React, Node.js, WebSockets, Aviation API, MongoDB
 * **Key Feature:** Streams and updates live aircraft positions with sub-second latency, enabling real-time tracking and visualization on an interactive map.
-* **[View Live Demo](YOUR_DEMO_LINK_HERE)** 
+* **[View Live Demo](https://www.vidulawickramasinghe.com/projects/ads-plane-feeder/viewer)** 
 
 ### 🌐 [WildGuard Elephant GPS Tracking System](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
 > *An IoT-based wildlife monitoring solution that tracks elephant movements using GPS-enabled belts to prevent human-wildlife conflict and support conservation efforts.*
@@ -97,8 +97,54 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ---
 
+## 💻 Tech Stack
 
+### Languages, Web Development & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" height="48" alt="Core Web Stack" />
+  <img src="https://cdn.simpleicons.org/shadcnui?color=000000" height="48" alt="shadcn/ui" />
+</p>
 
+### Artificial Intelligence & Generative Models
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai?color=000000" height="48" width="48" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" width="48" alt="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" width="48" alt="Character.ai" />
+  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" width="48" alt="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/runway?color=000000" height="48" width="48" alt="Runway" />
+  <img src="https://cdn.simpleicons.org/stabilityai?color=1A1919" height="48" width="48" alt="Stability AI" />
+  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" width="48" alt="Synthesia" style="border-radius:10px;" />
+</p>
+
+### Data Analytics, Backend & Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" height="48" alt="Data & Cloud" />
+  <img src="https://cdn.simpleicons.org/oracle?color=F80000" height="48" width="48" alt="Oracle" />
+  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" width="48" alt="Base" style="border-radius: 10px;" />
+</p>
+
+### Information Systems, Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" height="48" alt="Tools & IDEs" />
+  <img src="https://cdn.simpleicons.org/xcode?color=157EFB" height="48" width="48" alt="Xcode" />
+  <img src="https://cdn.simpleicons.org/apachenetbeanside?color=1B6AC6" height="48" width="48" alt="Apache NetBeans" />
+  <img src="https://cdn.simpleicons.org/w3c?color=005A9C" height="48" width="48" alt="W3C" />
+  <img src="https://www.google.com/s2/favicons?domain=hyperskill.org&sz=128" height="48" width="48" alt="Hyperskill" style="border-radius:10px;" />
+</p>
+
+### Enterprise Tech, GIS & Automation
+<p align="left">
+  <img src="https://cdn.simpleicons.org/microsoft?color=00A4EF" height="48" width="48" alt="Microsoft" />
+  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" width="48" alt="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" width="48" alt="Meta" />
+  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" width="48" alt="HP" />
+  <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" width="48" alt="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" width="48" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/ibm?color=0530AD" height="48" width="48" alt="IBM" />
+</p>
+
+---
   
   ## 🧠 Areas of Interest
 
