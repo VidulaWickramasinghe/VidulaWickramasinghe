@@ -22,6 +22,25 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 - 📚 Continuously learning and improving in **React, Next.js, Python, JavaScript, SQL, and cloud-based tools**
 
 ---
+## 🏆 Featured Projects
+
+### 🤖 [Project Name 1: e.g., AI Data Analyzer](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
+> *A brief 1-sentence description of what it does, the problem it solves, or the value it provides.*
+* **Tech Stack:** Python, Next.js, OpenAI API
+* **Key Feature:** Describe one impressive thing this project does (e.g., "Processes 10,000 rows of data in under 5 seconds").
+
+### 📊 [Project Name 2: e.g., Smart IoT Dashboard](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
+> *A brief 1-sentence description of this project.*
+* **Tech Stack:** React, Node.js, MongoDB, Express
+* **Key Feature:** Describe one impressive thing this project does.
+* **[View Live Demo](YOUR_DEMO_LINK_HERE)** *(Optional: Add this if you have a hosted version!)*
+
+### 🌐 [Project Name 3: e.g., Startup Landing Page](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
+> *A brief 1-sentence description of this project.*
+* **Tech Stack:** Next.js, Tailwind CSS, TypeScript
+* **Key Feature:** Describe one impressive thing this project does.
+
+---
 
 ## 🌱 Currently Working On
 
@@ -89,13 +108,19 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="48" alt="OpenAI" title="OpenAI" />
-  <img src="https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V3/main/figures/logo.svg" height="48" alt="DeepSeek" title="DeepSeek" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Character.ai_logo.svg" height="48" alt="Character.ai" title="Character.ai" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/ElevenLabs_logo.svg" height="48" alt="ElevenLabs" title="ElevenLabs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Runway_AI_logo.svg" height="48" alt="Runway" title="Runway" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Stability_AI_logo.svg" height="48" alt="Stability AI" title="Stability AI" />
-  <img src="https://cdn.brandfetch.io/synthesia.io/w/400/h/400/symbol" height="48" alt="Synthesia" title="Synthesia" />
+  <img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" title="OpenAI" />
+  
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="48" alt="DeepSeek" title="DeepSeek" />
+  
+  <img src="https://cdn.simpleicons.org/characterdotai/000000" height="48" alt="Character.ai" title="Character.ai" />
+  
+  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  
+  <img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" title="Runway" />
+  
+  <img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" title="Stability AI" />
+  
+  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" title="Synthesia" style="border-radius: 10px;" />
 </p>
 
 ### Data Analytics, Backend & Cloud Platforms
@@ -122,7 +147,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 <p align="left">
   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" alt="Nvidia" title="Nvidia" />
   <img src="https://cdn.simpleicons.org/meta/0468FF" height="48" alt="Meta" title="Meta" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" height="48" alt="Microsoft" title="Microsoft" />
+  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" height="48" alt="Microsoft" title="Microsoft" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="48" alt="IBM" title="IBM" />
   <img src="https://cdn.simpleicons.org/hp/0096D6" height="48" alt="HP" title="HP" />
   <img src="https://cdn.simpleicons.org/esri/007AC2" height="48" alt="Esri" title="Esri" />
@@ -143,10 +168,12 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vidulawickramasinghe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidulawickramasinghe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -155,14 +182,6 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vidulawickramasinghe&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidulawickramasinghe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
