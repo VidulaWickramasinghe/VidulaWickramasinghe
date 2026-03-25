@@ -87,6 +87,17 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
 </p>
 
+### Artificial Intelligence & Generative Models
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" title="OpenAI" />
+  <img src="https://cdn.simpleicons.org/deepseek/000000" height="48" alt="DeepSeek" title="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/characterdotai/000000" height="48" alt="Character.ai" title="Character.ai" />
+  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" title="Runway" />
+  <img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" title="Stability AI" />
+  <img src="https://cdn.simpleicons.org/synthesia/000000" height="48" alt="Synthesia" title="Synthesia" />
+</p>
+
 ### Data Analytics, Backend & Cloud Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" alt="Data & Cloud" />
@@ -100,12 +111,24 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 ### Information Systems, Tools & Environments
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" alt="Tools & IDEs" />
+  <img src="https://cdn.simpleicons.org/xcode/157EFB" height="48" alt="Xcode" title="Xcode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="NetBeans" title="NetBeans" />
   <img src="https://cdn.simpleicons.org/hyperskill/000000" height="48" alt="Hyperskill" title="Hyperskill" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
   <img src="https://cdn.simpleicons.org/wikipedia/000000" height="48" alt="Wikipedia" title="Wikipedia" />
 </p>
 
+### Enterprise Tech, GIS & Automation
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" alt="Nvidia" title="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta/0468FF" height="48" alt="Meta" title="Meta" />
+  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" height="48" alt="Microsoft" title="Microsoft" />
+  <img src="https://cdn.simpleicons.org/ibm/0530AD" height="48" alt="IBM" title="IBM" />
+  <img src="https://cdn.simpleicons.org/hp/0096D6" height="48" alt="HP" title="HP" />
+  <img src="https://cdn.simpleicons.org/esri/007AC2" height="48" alt="Esri" title="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" alt="LinkedIn" title="LinkedIn" />
+</p>
 
 
 ## 🧠 Areas of Interest
