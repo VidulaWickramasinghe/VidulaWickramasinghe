@@ -107,7 +107,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai?color=000000" height="48" alt="OpenAI" />
+  <img src="(https://platform.openai.com/home)/openai?color=000000" height="48" alt="OpenAI" />
   <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" alt="DeepSeek" />
   <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" alt="Character.ai" />
   <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" />
