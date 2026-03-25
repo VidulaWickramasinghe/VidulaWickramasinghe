@@ -72,9 +72,9 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
   <a href="YOUR_ORCID_LINK_HERE" target="_blank">
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="48" alt="ORCID" title="ORCID" />
   </a>
-  <a href="YOUR_W3C_LINK_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
-  </a>
+  <a href="YOUR_MEDIUM_LINK_HERE" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/000000" height="48" alt="Medium" title="Medium" />
+   </a>
 </p>
 
 ---
