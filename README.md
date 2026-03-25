@@ -125,31 +125,26 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="https://cdn.simpleicons.dev/openai/412991" height="48" alt="OpenAI" title="OpenAI" />
-  <img src="https://cdn.simpleicons.dev/deepseek/000000" height="48" alt="DeepSeek" title="DeepSeek" />
-  <img src="https://cdn.simpleicons.dev/characterdotai/000000" height="48" alt="Character.ai" title="Character.ai" />
-  <img src="https://cdn.simpleicons.dev/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
-  <img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" title="Runway" />
-  <img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" title="Stability AI" />
-  <img src="https://cdn.simpleicons.org/synthesia/000000" height="48" alt="Synthesia" title="Synthesia" />
+  <img src="https://cdn.simpleicons.org/openai?color=000000" height="48" alt="OpenAI" title="OpenAI" />
+  <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" alt="DeepSeek" title="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" alt="Character.ai" title="Character.ai" />
+  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/runway?color=000000" height="48" alt="Runway" title="Runway" />
+  <img src="https://cdn.simpleicons.org/stabilityai?color=1A1919" height="48" alt="Stability AI" title="Stability AI" />
+  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" title="Synthesia" style="border-radius:10px;" />
 </p>
 
 ### Enterprise Tech, GIS & Automation
 <p align="left">
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" alt="Nvidia" title="Nvidia" />
-  <img src="https://cdn.simpleicons.org/meta/0468FF" height="48" alt="Meta" title="Meta" />
-  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" height="48" alt="Microsoft" title="Microsoft" />
-  <img src="https://cdn.simpleicons.org/ibm/0530AD" height="48" alt="IBM" title="IBM" />
-  <img src="https://cdn.simpleicons.org/hp/0096D6" height="48" alt="HP" title="HP" />
-  <img src="https://cdn.simpleicons.org/esri/007AC2" height="48" alt="Esri" title="Esri" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" alt="LinkedIn" title="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" title="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" title="Meta" />
+  <img src="https://cdn.simpleicons.org/microsoft?color=00A4EF" height="48" alt="Microsoft" title="Microsoft" />
+  <img src="https://cdn.simpleicons.org/ibm?color=0530AD" height="48" alt="IBM" title="IBM" />
+  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" title="HP" />
+  <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" alt="Esri" title="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" title="n8n" />
 </p>
 
-### Mobile & IDEs (Add Xcode to your existing Tools section)
-<p align="left">
-  
-</p>
 ---
   
   ## 🧠 Areas of Interest
