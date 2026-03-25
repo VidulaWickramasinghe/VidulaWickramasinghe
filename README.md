@@ -145,15 +145,11 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 <p align="left">
   <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" title="Nvidia" />
   <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" title="Meta" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" height="48" alt="Microsoft" title="Microsoft" />
-  
-  <img src="https://avatars.githubusercontent.dev/u/116900?v=4" height="48" alt="IBM" title="IBM" style="border-radius: 10px;" />
-  
+  <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" height="48" width="48" alt="Microsoft" title="Microsoft" style="border-radius: 10px;" />
+  <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" height="48" width="48" alt="IBM" title="IBM" style="border-radius: 10px;" />
   <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" title="HP" />
   <img src="https://cdn.simpleicons.org/esri?color=000000" height="48" alt="Esri" title="Esri" />
   <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" title="n8n" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn" />
 </p>
 
