@@ -24,21 +24,21 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 ---
 ## 🏆 Featured Projects
 
-### 🤖 [Project Name 1: e.g., AI Data Analyzer](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
-> *A brief 1-sentence description of what it does, the problem it solves, or the value it provides.*
-* **Tech Stack:** Python, Next.js, OpenAI API
-* **Key Feature:** Describe one impressive thing this project does (e.g., "Processes 10,000 rows of data in under 5 seconds").
+### 🤖 [IntelliEdu Analytics Dashboard](https://github.com/VidulaWickramasinghe/)
+> *A real-time business intelligence dashboard that analyzes and visualizes student performance to help educators identify trends, gaps, and improvement strategies.*
+* **Tech Stack:** Python, Power BI / Tableau, SQL, Pandas
+* **Key Feature:** Processes and visualizes thousands of student records instantly with dynamic filters and predictive insights for performance improvement.
 
-### 📊 [Project Name 2: e.g., Smart IoT Dashboard](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
-> *A brief 1-sentence description of this project.*
-* **Tech Stack:** React, Node.js, MongoDB, Express
-* **Key Feature:** Describe one impressive thing this project does.
-* **[View Live Demo](YOUR_DEMO_LINK_HERE)** *(Optional: Add this if you have a hosted version!)*
+### 📊 [SkyStream Real-Time Aircraft Tracker](https://github.com/VidulaWickramasinghe/)
+> *A live flight data streaming system that tracks aircraft positions globally, providing real-time updates for aviation monitoring and analytics.*
+* **Tech Stack:** React, Node.js, WebSockets, Aviation API, MongoDB
+* **Key Feature:** Streams and updates live aircraft positions with sub-second latency, enabling real-time tracking and visualization on an interactive map.
+* **[View Live Demo](YOUR_DEMO_LINK_HERE)** 
 
-### 🌐 [Project Name 3: e.g., Startup Landing Page](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
-> *A brief 1-sentence description of this project.*
-* **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-* **Key Feature:** Describe one impressive thing this project does.
+### 🌐 [WildGuard Elephant GPS Tracking System](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
+> *An IoT-based wildlife monitoring solution that tracks elephant movements using GPS-enabled belts to prevent human-wildlife conflict and support conservation efforts.*
+* **Tech Stack:** Next.js, IoT Sensors, GPS Modules, Firebase, Tailwind CSS
+* **Key Feature:** Provides real-time location tracking with geofencing alerts, notifying authorities instantly when elephants approach restricted or human-inhabited zones.
 
 ---
 
@@ -107,13 +107,20 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="(https://platform.openai.com/home)/openai?color=000000" height="48" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" alt="DeepSeek" />
-  <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" alt="Character.ai" />
-  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" />
-  <img src="https://cdn.simpleicons.org/runway?color=000000" height="48" alt="Runway" />
-  <img src="https://cdn.simpleicons.org/stabilityai?color=1A1919" height="48" alt="Stability AI" />
-  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" style="border-radius:10px;" />
+  <!-- OpenAI -->
+<img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" />
+<!-- DeepSeek -->
+<img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="48" alt="DeepSeek" />
+<!-- Character.ai -->
+<img src="https://cdn.simpleicons.org/characterdotai/000000" height="48" alt="Character.ai" />
+<!-- ElevenLabs -->
+<img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" />
+<!-- Runway -->
+<img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" />
+<!-- Stability AI -->
+<img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" />
+<!-- Synthesia (favicon fallback) -->
+<img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" style="border-radius:10px;" />
 </p>
 
 ### Data Analytics, Backend & Cloud Platforms
@@ -132,7 +139,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
   <img src="https://cdn.simpleicons.org/xcode?color=157EFB" height="48" alt="Xcode" />
   <img src="https://cdn.simpleicons.org/apache?color=D22128" height="48" alt="NetBeans" />
   <img src="https://cdn.simpleicons.org/hyperskill?color=000000" height="48" alt="Hyperskill" />
-  <img src="https://cdn.simpleicons.org/w3c?color=005A9C" height="48" alt="W3C" />
+<img src="[https://cdn.simpleicons.org](https://www.w3.org)/w3c/005A9C" height="48" alt="W3C" />
   <img src="https://cdn.simpleicons.org/wikipedia?color=000000" height="48" alt="Wikipedia" />
 </p>
 
@@ -145,8 +152,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
   <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" alt="Esri" />
   <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  <img src="https://cdn.simpleicons.org/ibm?color=052FAD" height="48" alt="IBM" />
-</p>
+  <img src="[https://cdn.simpleicons.org](https://www.ibm.com/au-en)/ibm/052FAD" height="48" alt="IBM" /></p>
 
 ## 🧠 Areas of Interest
 
