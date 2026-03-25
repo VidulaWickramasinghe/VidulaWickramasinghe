@@ -101,49 +101,55 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 ### Languages, Web Development & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" height="48" alt="Core Web Stack" />
-  <img src="https://cdn.simpleicons.org/shadcnui?color=000000" height="48" alt="shadcn/ui" />
-</p>
-
-### Artificial Intelligence & Generative Models
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai?color=000000" height="48" width="48" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/deepseek?color=4D6BFE" height="48" width="48" alt="DeepSeek" />
-  <img src="https://cdn.simpleicons.org/characterdotai?color=000000" height="48" width="48" alt="Character.ai" />
-  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" width="48" alt="ElevenLabs" />
-  <img src="https://cdn.simpleicons.org/runway?color=000000" height="48" width="48" alt="Runway" />
-  <img src="https://cdn.simpleicons.org/stabilityai?color=1A1919" height="48" width="48" alt="Stability AI" />
-  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" width="48" alt="Synthesia" style="border-radius:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" alt="Core Web Stack" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
 </p>
 
 ### Data Analytics, Backend & Cloud Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" height="48" alt="Data & Cloud" />
-  <img src="https://cdn.simpleicons.org/oracle?color=F80000" height="48" width="48" alt="Oracle" />
-  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" width="48" alt="Base" style="border-radius: 10px;" />
+  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" alt="Data & Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache" title="Apache" />
+  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" title="Base" style="border-radius: 10px;" />
 </p>
 
 ### Information Systems, Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" height="48" alt="Tools & IDEs" />
-  <img src="https://cdn.simpleicons.org/xcode?color=157EFB" height="48" width="48" alt="Xcode" />
-  <img src="https://cdn.simpleicons.org/apachenetbeanside?color=1B6AC6" height="48" width="48" alt="Apache NetBeans" />
-  <img src="https://cdn.simpleicons.org/w3c?color=005A9C" height="48" width="48" alt="W3C" />
-  <img src="https://www.google.com/s2/favicons?domain=hyperskill.org&sz=128" height="48" width="48" alt="Hyperskill" style="border-radius:10px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" alt="Tools & IDEs" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="NetBeans" title="NetBeans" />
+  <img src="https://cdn.simpleicons.org/hyperskill/000000" height="48" alt="Hyperskill" title="Hyperskill" />
+  <img src="https://cdn.simpleicons.org/xcode/157EFB" height="48" alt="Xcode" title="Xcode" />
+  <img src="https://cdn.simpleicons.org/wikipedia/000000" height="48" alt="Wikipedia" title="Wikipedia" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
+</p>
+
+### Artificial Intelligence & Generative Models
+<p align="left">
+  <img src="https://cdn.simpleicons.dev/openai/412991" height="48" alt="OpenAI" title="OpenAI" />
+  <img src="https://cdn.simpleicons.dev/deepseek/000000" height="48" alt="DeepSeek" title="DeepSeek" />
+  <img src="https://cdn.simpleicons.dev/characterdotai/000000" height="48" alt="Character.ai" title="Character.ai" />
+  <img src="https://cdn.simpleicons.dev/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/runway/000000" height="48" alt="Runway" title="Runway" />
+  <img src="https://cdn.simpleicons.org/stabilityai/1A1919" height="48" alt="Stability AI" title="Stability AI" />
+  <img src="https://cdn.simpleicons.org/synthesia/000000" height="48" alt="Synthesia" title="Synthesia" />
 </p>
 
 ### Enterprise Tech, GIS & Automation
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoft?color=00A4EF" height="48" width="48" alt="Microsoft" />
-  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" width="48" alt="Nvidia" />
-  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" width="48" alt="Meta" />
-  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" width="48" alt="HP" />
-  <img src="https://cdn.simpleicons.org/esri?color=007AC2" height="48" width="48" alt="Esri" />
-  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" width="48" alt="n8n" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  <img src="https://cdn.simpleicons.org/ibm?color=0530AD" height="48" width="48" alt="IBM" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" alt="Nvidia" title="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta/0468FF" height="48" alt="Meta" title="Meta" />
+  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" height="48" alt="Microsoft" title="Microsoft" />
+  <img src="https://cdn.simpleicons.org/ibm/0530AD" height="48" alt="IBM" title="IBM" />
+  <img src="https://cdn.simpleicons.org/hp/0096D6" height="48" alt="HP" title="HP" />
+  <img src="https://cdn.simpleicons.org/esri/007AC2" height="48" alt="Esri" title="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" alt="LinkedIn" title="LinkedIn" />
 </p>
 
+### Mobile & IDEs (Add Xcode to your existing Tools section)
+<p align="left">
+  
+</p>
 ---
   
   ## 🧠 Areas of Interest
