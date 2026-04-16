@@ -141,7 +141,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
 
 
 ### Enterprise Tech, GIS & Automation
-<p align="left">
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" title="Nvidia" />
   <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" title="Meta" />
   <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" title="HP" />
@@ -150,7 +150,7 @@ I am an aspiring System Developer passionate about Artificial Intelligence, Data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn" />
   <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" height="48" width="48" alt="Microsoft" title="Microsoft" style="border-radius: 10px;" />
   <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" height="48" width="48" alt="IBM" title="IBM" style="border-radius: 10px;" />
-</p>
+</div>
 
 ---
   
