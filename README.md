@@ -208,91 +208,59 @@ My work and learning span **software development, artificial intelligence, data 
 
 # 💻 Technology Stack
 
-## 🧑‍💻 Programming Languages
-
+### Languages, Web Development & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,html,css" alt="Programming Languages" />
-</p>
-
-`Python` `Java` `JavaScript` `TypeScript` `R` `HTML5` `CSS3`
-
----
-
-## 🌐 Frontend & Full-Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frontend and Full-Stack Development" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" alt="Core Web Stack" />
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
 </p>
 
-`React` `Next.js` `Node.js` `Tailwind CSS` `shadcn/ui`
-
----
-
-## 🗄️ Databases & Data Platforms
-
+### Data Analytics, Backend & Cloud Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="Databases" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" alt="Data & Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache" title="Apache" />
+  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" title="Base" style="border-radius: 10px;" />
 </p>
 
-`MySQL` `MongoDB` `Supabase` `Oracle` `SQL`
-
----
-
-## 📊 Data Analytics & Business Intelligence
-
+### Information Systems, Tools & Environments
 <p align="left">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" title="Tableau" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" title="Pandas" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" alt="Tools & IDEs" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="NetBeans" title="NetBeans" />
+  <img src="https://cdn.simpleicons.org/hyperskill/000000" height="48" alt="Hyperskill" title="Hyperskill" />
+  <img src="https://cdn.simpleicons.org/xcode/157EFB" height="48" alt="Xcode" title="Xcode" />
+  <img src="https://cdn.simpleicons.org/wikipedia/000000" height="48" alt="Wikipedia" title="Wikipedia" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
 </p>
 
-`Tableau` `Power BI` `Pandas` `NumPy`
-
----
-
-## ☁️ Cloud & DevOps
-
+### Artificial Intelligence & Generative Models
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github" alt="Cloud and DevOps" />
+  <img src="https://avatars.githubusercontent.com/u/14957082?v=4" height="48" alt="OpenAI" title="OpenAI" style="border-radius: 10px;" />
+  
+  <img src="https://avatars.githubusercontent.com/u/148330874?v=4" height="48" alt="DeepSeek" title="DeepSeek" style="border-radius: 10px;" />
+  
+  <img src="https://icon.horse/icon/character.ai" height="48" alt="Character.ai" title="Character.ai" style="border-radius: 10px;" />
+  
+  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  
+  <img src="https://icon.horse/icon/runwayml.com" height="48" alt="Runway" title="Runway" style="border-radius: 10px;" />
+  
+  <img src="https://icon.horse/icon/stability.ai" height="48" alt="Stability AI" title="Stability AI" style="border-radius: 10px;" />
+  
+  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" title="Synthesia" style="border-radius: 10px;" />
 </p>
 
-`AWS` `Google Cloud` `Microsoft Azure` `Docker` `Git` `GitHub`
 
----
-
-## 🤖 Artificial Intelligence & Automation
-
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/14957082?v=4" height="48" alt="OpenAI" title="OpenAI" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" title="Hugging Face" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
-</p>
-
-`OpenAI` `Hugging Face` `ElevenLabs` `n8n`
-
----
-
-## 🛠️ Development Tools & Environments
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,figma" alt="Development Tools" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/xcode/1575F9" height="48" alt="Xcode" title="Xcode" />
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="Apache NetBeans" title="Apache NetBeans" />
-</p>
-
-`VS Code` `IntelliJ IDEA` `WebStorm` `Figma` `Xcode` `Apache NetBeans`
+### Enterprise Tech, GIS & Automation
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" title="Nvidia" />
+  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" title="Meta" />
+  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" title="HP" />
+  <img src="https://cdn.simpleicons.org/esri?color=000000" height="48" alt="Esri" title="Esri" />
+  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" title="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn" />
+  <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" height="48" width="48" alt="Microsoft" title="Microsoft" style="border-radius: 10px;" />
+  <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" height="48" width="48" alt="IBM" title="IBM" style="border-radius: 10px;" />
+</div>
 
 ---
 # 🔭 Currently Exploring
@@ -477,4 +445,3 @@ Thank you for visiting my GitHub profile.
 **[LinkedIn](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
 
 </div>
-
