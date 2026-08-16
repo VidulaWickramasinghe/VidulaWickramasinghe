@@ -1,213 +1,468 @@
-![banner](https://github.com/user-attachments/assets/34080c9f-a915-4223-b351-08f27477623a)
+```markdown
+![Profile Banner](https://github.com/user-attachments/assets/34080c9f-a915-4223-b351-08f27477623a)
 
-# Hi 👋,
+<div align="center">
 
-I am an aspiring System Developer passionate about Artificial Intelligence, Data Science, Web Development, and innovative digital solutions. I enjoy building practical projects and continuously learning new technologies.
+# Hi, I'm Vidula Wickramasinghe 👋
 
-<h3 align="center">System Developer | Problem Solver | Tech Enthusiast</h3>
+### Systems Developer • AI & Data • Full-Stack • IoT
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidulawickramasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+I design and build practical digital systems across **software engineering, artificial intelligence, data analytics, full-stack development, automation, and connected technologies**.
 
----
+<br>
 
-## 🚀 About Me
+<a href="https://vidulawickramasinghe.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/vidula-wickramasinghe-931259321/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:vidula.hwick@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+</a>
 
-- 🎓 Information Systems / Computer Science student based in Australia  
-- 🤖 Passionate about **Artificial Intelligence, Data Science, and Software Development**  
-- 🌐 Interested in **Web Development, IoT Systems, Smart Applications, and Startup Innovation**  
-- 📊 Building projects in **AI, analytics, embedded systems, and business technology**
-- 💡 Focused on solving real-world problems through technology  
-- 📚 Continuously learning and improving in **React, Next.js, Python, JavaScript, SQL, and cloud-based tools**
+<br><br>
 
----
-## 🏆 Featured Projects
+<img src="https://komarev.com/ghpvc/?username=VidulaWickramasinghe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-### 🤖 [IntelliEdu Analytics Dashboard](https://github.com/VidulaWickramasinghe/)
-> *A real-time business intelligence dashboard that analyzes and visualizes student performance to help educators identify trends, gaps, and improvement strategies.*
-* **Tech Stack:** Python, Power BI / Tableau, SQL, Pandas
-* **Key Feature:** Processes and visualizes thousands of student records instantly with dynamic filters and predictive insights for performance improvement.
-
-### 📊 [SkyStream Real-Time Aircraft Tracker](https://github.com/VidulaWickramasinghe/)
-> *A live flight data streaming system that tracks aircraft positions globally, providing real-time updates for aviation monitoring and analytics.*
-* **Tech Stack:** React, Node.js, WebSockets, Aviation API, MongoDB
-* **Key Feature:** Streams and updates live aircraft positions with sub-second latency, enabling real-time tracking and visualization on an interactive map.
-* **[View Live Demo](https://www.vidulawickramasinghe.com/projects/ads-plane-feeder/viewer)** 
-
-### 🌐 [WildGuard Elephant GPS Tracking System](https://github.com/VidulaWickramasinghe/YOUR_REPO_LINK)
-> *An IoT-based wildlife monitoring solution that tracks elephant movements using GPS-enabled belts to prevent human-wildlife conflict and support conservation efforts.*
-* **Tech Stack:** Next.js, IoT Sensors, GPS Modules, Firebase, Tailwind CSS
-* **Key Feature:** Provides real-time location tracking with geofencing alerts, notifying authorities instantly when elephants approach restricted or human-inhabited zones.
-
----
-
-## 🌱 Currently Working On
-
-* **Expanding my AI & Data Science expertise:** Focusing on predictive modeling, machine learning algorithms, and advanced data visualization techniques.
-* **Building Full-Stack Innovations:** Designing scalable, web-based startup concepts and comprehensive system architectures.
-* **Developing Smart IoT Solutions:** Prototyping embedded systems and connected devices for real-world environmental and business applications.
-* **Refining my Digital Presence:** Continuously upgrading my personal portfolio to showcase complex data integrations and system designs.
-
----
-
-## 💼 Looking For
-
-* **Internship & Junior Roles:** Actively seeking opportunities in Software Engineering, Data Analytics, or Systems Development where I can contribute to high-impact projects.
-* **Open Source & Project Collaboration:** Eager to partner with developers on innovative AI, IoT, or full-stack web applications.
-* **Professional Networking:** Always open to connecting with founders, tech professionals, and fellow engineers to discuss industry trends, system architecture, and tech startups.
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **vidula.hwick@outlook.com**
-- 💼 LinkedIn: **[https://linkedin.com/in/vidulawickramasinghe](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
-- 🌍 Portfolio: **https://vidulawickramasinghe.com**
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vidula-wickramasinghe-931259321/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VidulaWickramasinghe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
-  </a>
-  <a href="YOUR_MASTODON_LINK_HERE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mastodon" height="48" alt="Mastodon" />
-  </a>
-  <a href="YOUR_BLUESKY_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky?color=0285FF" height="48" alt="Bluesky" />
-  </a>
-  <a href="YOUR_HUGGINGFACE_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface?color=FFD21E" height="48" alt="Hugging Face" />
-  </a>
-  <a href="YOUR_ORCID_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid?color=A6CE39" height="48" alt="ORCID" />
-  </a>
-  <a href="YOUR_MEDIUM_LINK_HERE" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium?color=000000" height="48" alt="Medium" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### Languages, Web Development & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs" alt="Core Web Stack" />
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
-</p>
-
-### Data Analytics, Backend & Cloud Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=r,mysql,mongodb,supabase,aws,gcp,azure,docker" alt="Data & Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache" title="Apache" />
-  <img src="https://avatars.githubusercontent.com/u/108554348?v=4" height="48" alt="Base" title="Base" style="border-radius: 10px;" />
-</p>
-
-### Information Systems, Tools & Environments
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,figma" alt="Tools & IDEs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="NetBeans" title="NetBeans" />
-  <img src="https://cdn.simpleicons.org/hyperskill/000000" height="48" alt="Hyperskill" title="Hyperskill" />
-  <img src="https://cdn.simpleicons.org/xcode/157EFB" height="48" alt="Xcode" title="Xcode" />
-  <img src="https://cdn.simpleicons.org/wikipedia/000000" height="48" alt="Wikipedia" title="Wikipedia" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg" height="48" alt="W3C" title="W3C" />
-</p>
-
-### Artificial Intelligence & Generative Models
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/14957082?v=4" height="48" alt="OpenAI" title="OpenAI" style="border-radius: 10px;" />
-  
-  <img src="https://avatars.githubusercontent.com/u/148330874?v=4" height="48" alt="DeepSeek" title="DeepSeek" style="border-radius: 10px;" />
-  
-  <img src="https://icon.horse/icon/character.ai" height="48" alt="Character.ai" title="Character.ai" style="border-radius: 10px;" />
-  
-  <img src="https://cdn.simpleicons.org/elevenlabs?color=000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
-  
-  <img src="https://icon.horse/icon/runwayml.com" height="48" alt="Runway" title="Runway" style="border-radius: 10px;" />
-  
-  <img src="https://icon.horse/icon/stability.ai" height="48" alt="Stability AI" title="Stability AI" style="border-radius: 10px;" />
-  
-  <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=128" height="48" alt="Synthesia" title="Synthesia" style="border-radius: 10px;" />
-</p>
-
-
-### Enterprise Tech, GIS & Automation
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://cdn.simpleicons.org/nvidia?color=76B900" height="48" alt="Nvidia" title="Nvidia" />
-  <img src="https://cdn.simpleicons.org/meta?color=0468FF" height="48" alt="Meta" title="Meta" />
-  <img src="https://cdn.simpleicons.org/hp?color=0096D6" height="48" alt="HP" title="HP" />
-  <img src="https://cdn.simpleicons.org/esri?color=000000" height="48" alt="Esri" title="Esri" />
-  <img src="https://cdn.simpleicons.org/n8n?color=EA4B71" height="48" alt="n8n" title="n8n" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn" />
-  <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" height="48" width="48" alt="Microsoft" title="Microsoft" style="border-radius: 10px;" />
-  <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" height="48" width="48" alt="IBM" title="IBM" style="border-radius: 10px;" />
 </div>
 
 ---
-  
-  ## 🧠 Areas of Interest
 
-- Artificial Intelligence  
-- Data Science & Analytics  
-- Full-Stack Web Development  
-- UI/UX Design  
-- IoT & Embedded Systems  
-- Startup Product Development  
-- Business Systems & Automation  
+## 👨‍💻 About Me
+
+I'm an **Information Systems / Computer Science student based in Australia** with a strong interest in designing and developing technology that solves practical, real-world problems.
+
+My work and learning span **software development, artificial intelligence, data analytics, full-stack web applications, IoT systems, automation, cloud technologies, and system architecture**.
+
+- 🎓 Studying **Information Systems / Computer Science**
+- 💻 Building **software applications, full-stack platforms, dashboards, AI systems, and IoT prototypes**
+- 🤖 Exploring **AI agents, machine learning, intelligent automation, and generative AI**
+- 📊 Interested in **data analytics, business intelligence, predictive systems, and data visualisation**
+- 🌐 Developing with **React, Next.js, Python, JavaScript, TypeScript, SQL, and cloud technologies**
+- 🛰️ Experimenting with **real-time systems, APIs, IoT, sensors, GPS, and connected devices**
+- 🧩 Interested in the full development lifecycle — from **requirements and architecture to implementation, testing, deployment, and improvement**
+- 🚀 Continuously learning, experimenting, and turning ideas into functional systems
 
 ---
 
+# 🚀 Featured Projects
 
-## 📊 GitHub Stats
+## ✈️ SkyStream — Real-Time Aircraft Tracking System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidulawickramasinghe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidulawickramasinghe&layout=compact&theme=tokyonight" alt="Top Languages" />
+> A real-time aviation monitoring platform designed to receive, process, visualise, and analyse live aircraft information.
+
+### Highlights
+
+- 🌍 Real-time aircraft position visualisation
+- ⚡ Live aviation data processing
+- 🗺️ Interactive aircraft mapping
+- 🔄 Streaming data architecture
+- 📡 Aircraft monitoring and analytics
+- 🌐 Web-based visualisation interface
+
+### Technologies
+
+`React` `Node.js` `JavaScript` `WebSockets` `REST APIs` `Real-Time Data` `Interactive Mapping`
+
+<p>
+  <a href="https://www.vidulawickramasinghe.com/projects/ads-plane-feeder/viewer">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Aircraft_Tracker-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SkyStream Live Demo" />
+  </a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 IntelliEdu — Education Analytics Dashboard
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vidulawickramasinghe&theme=tokyonight" alt="GitHub streak" />
+> A business intelligence and analytics project focused on transforming student-performance data into understandable and actionable insights.
+
+### Highlights
+
+- 📈 Student performance analysis
+- 📊 Interactive dashboard development
+- 🎯 KPI visualisation
+- 🔍 Trend and pattern identification
+- 🧹 Data transformation and preparation
+- 📑 Analytical reporting
+
+### Technologies
+
+`Python` `SQL` `Pandas` `Power BI` `Tableau` `Data Analytics`
+
+<p>
+  <a href="https://vidulawickramasinghe.com/projects">
+    <img src="https://img.shields.io/badge/Project-Explore_More-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore IntelliEdu" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐘 WildGuard — Elephant GPS Tracking & Monitoring System
+
+> An IoT-based wildlife monitoring concept designed to support elephant conservation and reduce human-wildlife conflict using connected tracking technologies.
+
+### Highlights
+
+- 📍 GPS-based wildlife tracking
+- 📡 IoT sensor integration
+- 🚧 Geofencing
+- 🗺️ Real-time location monitoring
+- 🚨 Automated alert concepts
+- 🌱 Environmental and conservation technology
+
+### Technologies
+
+`Next.js` `IoT` `GPS` `Firebase` `Tailwind CSS` `Real-Time Monitoring`
+
+<p>
+  <a href="https://vidulawickramasinghe.com/projects">
+    <img src="https://img.shields.io/badge/Project-Explore_More-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore WildGuard" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🔎 Explore More of My Work
+
+<a href="https://vidulawickramasinghe.com/projects">
+  <img src="https://img.shields.io/badge/View_All_Projects-Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View All Projects" />
+</a>
+
+<a href="https://github.com/VidulaWickramasinghe?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+</a>
+
+</div>
+
+---
+
+# 🧠 Technical Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+- Generative AI
+- AI-powered applications
+- Intelligent agents
+- Machine learning concepts
+- Prompt engineering
+- LLM integrations
+- AI-assisted automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+
+- Data analysis
+- Business intelligence
+- SQL
+- Data visualisation
+- Dashboard development
+- Predictive analytics
+- Data-driven decision systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software & Web Development
+
+- Full-stack development
+- Frontend engineering
+- Backend systems
+- REST APIs
+- Database integration
+- Responsive interfaces
+- Application architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 IoT & Connected Systems
+
+- GPS systems
+- Sensor integration
+- Embedded-system concepts
+- Real-time monitoring
+- Connected applications
+- Automation
+- Environmental technology
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Technology Stack
+
+## 🧑‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,html,css" alt="Programming Languages" />
+</p>
+
+`Python` `Java` `JavaScript` `TypeScript` `R` `HTML5` `CSS3`
+
+---
+
+## 🌐 Frontend & Full-Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frontend and Full-Stack Development" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="48" alt="shadcn/ui" title="shadcn/ui" />
+</p>
+
+`React` `Next.js` `Node.js` `Tailwind CSS` `shadcn/ui`
+
+---
+
+## 🗄️ Databases & Data Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="Databases" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
+</p>
+
+`MySQL` `MongoDB` `Supabase` `Oracle` `SQL`
+
+---
+
+## 📊 Data Analytics & Business Intelligence
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" title="Tableau" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" title="NumPy" />
+</p>
+
+`Tableau` `Power BI` `Pandas` `NumPy`
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github" alt="Cloud and DevOps" />
+</p>
+
+`AWS` `Google Cloud` `Microsoft Azure` `Docker` `Git` `GitHub`
+
+---
+
+## 🤖 Artificial Intelligence & Automation
+
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/14957082?v=4" height="48" alt="OpenAI" title="OpenAI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" title="Hugging Face" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="48" alt="ElevenLabs" title="ElevenLabs" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
+</p>
+
+`OpenAI` `Hugging Face` `ElevenLabs` `n8n`
+
+---
+
+## 🛠️ Development Tools & Environments
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,figma,xcode" alt="Development Tools" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="Apache NetBeans" title="Apache NetBeans" />
+</p>
+
+`VS Code` `IntelliJ IDEA` `WebStorm` `Figma` `Xcode` `Apache NetBeans`
+
+---
+
+# 🔭 Currently Exploring
+
+```text
+AI & Intelligent Agents    ███████████████████░
+Data Analytics & BI        ██████████████████░░
+Full-Stack Systems         ███████████████████░
+IoT & Real-Time Systems    █████████████████░░░
+Cloud Architecture         ███████████████░░░░░
+```
+
+### Current areas of development
+
+- 🤖 AI-powered applications and intelligent agent architectures
+- 🧠 Machine learning and predictive modelling
+- 📊 Advanced analytics and interactive dashboards
+- ⚡ Real-time data processing
+- 🌐 Scalable full-stack applications
+- 🛰️ IoT, sensors, GPS, and connected systems
+- ☁️ Cloud-based application architecture
+- 🔄 Workflow and business-process automation
+
+---
+
+# 🎯 Areas of Interest
 
 <p align="center">
-  <img
-    src="https://trophy.ryglcloud.net/?username=vidulawickramasinghe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
-    alt="GitHub trophies"
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Data_Science-1f6feb?style=flat-square" alt="Data Science" />
+<img src="https://img.shields.io/badge/Data_Analytics-007ACC?style=flat-square" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-181717?style=flat-square" alt="Full-Stack Development" />
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" alt="IoT" />
+<img src="https://img.shields.io/badge/System_Architecture-6f42c1?style=flat-square" alt="System Architecture" />
+<img src="https://img.shields.io/badge/Automation-EA4B71?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=flat-square" alt="Cloud Computing" />
+
+</p>
+
+---
+
+# 💼 Professional Interests
+
+I'm particularly interested in opportunities involving:
+
+- 💻 **Software Engineering**
+- ⚙️ **Systems Development**
+- 📊 **Data Analytics**
+- 📈 **Business Intelligence**
+- 🤖 **Artificial Intelligence**
+- 🌐 **Full-Stack Development**
+- 🛰️ **IoT & Connected Systems**
+- ☁️ **Cloud Technologies**
+- 🚀 **Technology Product Development**
+
+---
+
+# 🤝 Open to Opportunities
+
+I enjoy connecting with developers, engineers, technology professionals, researchers, founders, and organisations working on meaningful technology.
+
+### I'm open to
+
+- 💼 Internship opportunities
+- 🚀 Junior technology roles
+- 🤝 Open-source collaboration
+- 💻 Software development projects
+- 🤖 AI and automation projects
+- 📊 Data analytics projects
+- 🛰️ IoT and real-time system projects
+- 🌱 Technology and startup communities
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VidulaWickramasinghe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vidula Wickramasinghe GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulaWickramasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+> **Note:** GitHub language statistics reflect the public code in repositories and do not represent overall skill level.
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VidulaWickramasinghe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake-dark.svg"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg"
+  />
+</picture>
 
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### Have an opportunity, project, or technology idea?
+
+I'm always happy to connect and discuss **software development, AI, data, IoT, systems, and technology innovation**.
+
+<br>
+
+<a href="mailto:vidula.hwick@outlook.com">
+  <img src="https://img.shields.io/badge/Email-vidula.hwick%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/vidula-wickramasinghe-931259321/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vidula_Wickramasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://vidulawickramasinghe.com">
+  <img src="https://img.shields.io/badge/Portfolio-vidulawickramasinghe.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/VidulaWickramasinghe">
+  <img src="https://img.shields.io/github/followers/VidulaWickramasinghe?label=Follow&style=social" alt="GitHub Followers" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## ✨ Personal Motto
 
-> “Building technology with purpose, creativity, and impact.”
+### “Building technology with purpose, creativity, and impact.”
 
----
+<br>
 
-## 🐍 Contribution Snake
+<sub>
+Thank you for visiting my GitHub profile.
+</sub>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg" />
-  </picture>
-</p>
+<br><br>
 
-[![Generate Snake](https://github.com/VidulaWickramasinghe/VidulaWickramasinghe/actions/workflows/snake.yml/badge.svg)](https://github.com/VidulaWickramasinghe/VidulaWickramasinghe/actions/workflows/snake.yml)
+**[Portfolio](https://vidulawickramasinghe.com)** •
+**[Projects](https://vidulawickramasinghe.com/projects)** •
+**[GitHub](https://github.com/VidulaWickramasinghe)** •
+**[LinkedIn](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
+
+</div>
+```
