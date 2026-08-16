@@ -338,35 +338,41 @@ I enjoy connecting with developers, engineers, technology professionals, researc
 
 # 📊 GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VidulaWickramasinghe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vidula Wickramasinghe GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulaWickramasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-
-</div>
-
-> GitHub language statistics reflect the public code available in repositories and do not represent overall technical proficiency.
-
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VidulaWickramasinghe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<a href="https://github.com/VidulaWickramasinghe">
+  <img
+    src="https://github.com/VidulaWickramasinghe/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
+    alt="Vidula Wickramasinghe GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/VidulaWickramasinghe">
+  <img
+    src="https://github.com/VidulaWickramasinghe/github-stats/blob/generated/overview.svg#gh-light-mode-only"
+    alt="Vidula Wickramasinghe GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/VidulaWickramasinghe">
+  <img
+    src="https://github.com/VidulaWickramasinghe/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
+    alt="Vidula Wickramasinghe Most Used Languages"
+  />
+</a>
+
+<a href="https://github.com/VidulaWickramasinghe">
+  <img
+    src="https://github.com/VidulaWickramasinghe/github-stats/blob/generated/languages.svg#gh-light-mode-only"
+    alt="Vidula Wickramasinghe Most Used Languages"
+  />
+</a>
 
 </div>
 
----
-
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidulaWickramasinghe&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
+> GitHub statistics are automatically generated from repository activity and refreshed by GitHub Actions.
 
 ---
 
@@ -384,7 +390,7 @@ I enjoy connecting with developers, engineers, technology professionals, researc
     srcset="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg"
   />
   <img
-    alt="GitHub Contribution Snake Animation"
+    alt="Vidula Wickramasinghe GitHub Contribution Activity"
     src="https://raw.githubusercontent.com/VidulaWickramasinghe/VidulaWickramasinghe/output/github-snake.svg"
   />
 </picture>
