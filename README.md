@@ -1,6 +1,3 @@
-Copy everything below directly into your GitHub profile repository’s **`README.md`** file.
-
-```md
 ![Profile Banner](https://github.com/user-attachments/assets/34080c9f-a915-4223-b351-08f27477623a)
 
 <div align="center">
@@ -298,7 +295,6 @@ My work and learning span **software development, artificial intelligence, data 
 `VS Code` `IntelliJ IDEA` `WebStorm` `Figma` `Xcode` `Apache NetBeans`
 
 ---
-
 # 🔭 Currently Exploring
 
 ```text
@@ -481,10 +477,4 @@ Thank you for visiting my GitHub profile.
 **[LinkedIn](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
 
 </div>
-```
 
-This version is ready to paste directly into:
-
-```bash
-VidulaWickramasinghe/VidulaWickramasinghe/README.md
-```
