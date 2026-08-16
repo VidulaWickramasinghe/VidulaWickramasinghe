@@ -1,4 +1,6 @@
-```markdown
+Copy everything below directly into your GitHub profile repository’s **`README.md`** file.
+
+```md
 ![Profile Banner](https://github.com/user-attachments/assets/34080c9f-a915-4223-b351-08f27477623a)
 
 <div align="center">
@@ -14,9 +16,11 @@ I design and build practical digital systems across **software engineering, arti
 <a href="https://vidulawickramasinghe.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+
 <a href="https://www.linkedin.com/in/vidula-wickramasinghe-931259321/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:vidula.hwick@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
 </a>
@@ -284,7 +288,9 @@ My work and learning span **software development, artificial intelligence, data 
 ## 🛠️ Development Tools & Environments
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,figma,xcode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,figma" alt="Development Tools" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/xcode/1575F9" height="48" alt="Xcode" title="Xcode" />
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48" alt="Apache NetBeans" title="Apache NetBeans" />
 </p>
@@ -376,7 +382,7 @@ I enjoy connecting with developers, engineers, technology professionals, researc
 
 </div>
 
-> **Note:** GitHub language statistics reflect the public code in repositories and do not represent overall skill level.
+> GitHub language statistics reflect the public code available in repositories and do not represent overall technical proficiency.
 
 ---
 
@@ -385,6 +391,16 @@ I enjoy connecting with developers, engineers, technology professionals, researc
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=VidulaWickramasinghe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidulaWickramasinghe&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
@@ -419,7 +435,7 @@ I enjoy connecting with developers, engineers, technology professionals, researc
 
 ### Have an opportunity, project, or technology idea?
 
-I'm always happy to connect and discuss **software development, AI, data, IoT, systems, and technology innovation**.
+I'm always interested in connecting and discussing **software development, AI, data, IoT, systems, automation, and technology innovation**.
 
 <br>
 
@@ -465,4 +481,10 @@ Thank you for visiting my GitHub profile.
 **[LinkedIn](https://www.linkedin.com/in/vidula-wickramasinghe-931259321/)**
 
 </div>
+```
+
+This version is ready to paste directly into:
+
+```bash
+VidulaWickramasinghe/VidulaWickramasinghe/README.md
 ```
